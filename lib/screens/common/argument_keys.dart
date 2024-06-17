@@ -1,0 +1,6 @@
+
+enum ArgumentKeys{
+  login,
+  idDog;
+}
+

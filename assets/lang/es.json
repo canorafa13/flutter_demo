@@ -1,0 +1,12 @@
+{
+    "title_main": "Flutter Demo",
+    "title_login": "Iniciar sesión",
+    "title_home": "Home",
+    "description_login": "Ingresa tu usuario y contraseña",
+    "user": "Usuario",
+    "password": "Contraseña",
+    "hello_person": "Hola {name}",
+    "loading_progress": "Cargando... {progress}",
+    "btn_login": "Acceder"
+    
+}
